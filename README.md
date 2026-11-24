@@ -2,13 +2,13 @@
 > As you might already know,  
 > **Pico CSS is [officially](//picocss.com/docs/maintenance) no longer maintained — <mark>but:</mark>**
 
-### Development continues under [Blades CSS](//github.com/anyblades/blades) 🎉
+### Development continues under [Blades CSS](//github.com/open-sveti/blades) 🎉
 
 | Homepage:             | https://blades.dev/                                    |
 | --------------------- | ------------------------------------------------------ |
 | Documentation:        | https://blades.dev/#docs                               |
-| Source code:          | https://github.com/anyblades/blades                    |
-| Underlying Pico fork: | https://github.com/anyblades/blades/tree/main/src/pico |
+| Source code:          | https://github.com/open-sveti/blades                    |
+| Underlying Pico fork: | https://github.com/open-sveti/blades/tree/main/src/pico |
 
 ---
 
@@ -40,12 +40,12 @@ Pico issues resolved in Blades:
 See fixes in action:
 
 1. Demo: [@picocss/pico issues reproduced](https://codepen.io/BladesCSS/full/XjPZEB) (where applicable)
-2. Demo: [@anyblades/blades running without issues](https://codepen.io/BladesCSS/full/QbOByO) (on exact same markup!)
+2. Demo: [@sveti/blades running without issues](https://codepen.io/BladesCSS/full/QbOByO) (on exact same markup!)
 
 Every Blades build includes the actual `.diff` with exact changes against "canonical" `pico.css`: <!--{#diff}-->
 
-- https://github.com/anyblades/blades/blob/main/css/pico.css.diff
-- https://github.com/anyblades/blades/blob/main/css/pico.min.css.diff
+- https://github.com/open-sveti/blades/blob/main/css/pico.css.diff
+- https://github.com/open-sveti/blades/blob/main/css/pico.min.css.diff
 
 ---
 
